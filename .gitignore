@@ -1,0 +1,14 @@
+# Virtuális környezetek
+venv/
+marker_env/
+__pycache__/
+*.pyc
+
+# Nyers tankönyvek és modellek
+PDF/
+models/
+*.gguf
+
+# Rendszerfájlok és titkok
+.env
+.DS_Store
