@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "61b2693550ad80c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba4fe46a922a7f88",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01e65132d2c0d61f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c575b6d74b9ba897",
+    "type": "split",
+    "children": [
+      {
+        "id": "02cc30388961d921",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b30a1277a6bdc4e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b3b3c032e5fd4f97",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0ca07497f646e28b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "24e68bca8d82979f",
+    "type": "split",
+    "children": [
+      {
+        "id": "597b516c2ca38047",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a2b0bfa0064d4f90",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "OH-MIR09TA__teljes/OH-MIR09TA__teljes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for OH-MIR09TA__teljes"
+            }
+          },
+          {
+            "id": "8ae9f3c86ea2619c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "OH-MIR09TA__teljes/OH-MIR09TA__teljes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from OH-MIR09TA__teljes"
+            }
+          },
+          {
+            "id": "bd466bc826c01969",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "61d36361b0d2a373",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "31c4d114d74a8162",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "OH-MIR09TA__teljes/OH-MIR09TA__teljes.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of OH-MIR09TA__teljes"
+            }
+          },
+          {
+            "id": "46568b7596f63f11",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "OH-MIR09TA__teljes/OH-MIR09TA__teljes.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "zk-prefixer:Create new unique note": false,
+      "random-note:Open random note": false,
+      "workspaces:Manage workspace layouts": false,
+      "publish:Publish changes...": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "01e65132d2c0d61f",
+  "lastOpenFiles": [
+    "images/OH-MIR10TA__teljes",
+    "images/OH-MIR10SZ__teljes/_page_9_Picture_0.jpeg",
+    "images/OH-MIR10SZ__teljes/_page_99_Picture_8.jpeg",
+    "images/OH-MIR10SZ__teljes/_page_99_Picture_0.jpeg",
+    "images/OH-MIR10SZ__teljes/_page_98_Picture_0.jpeg",
+    "images/OH-MIR10SZ__teljes/_page_97_Picture_6.jpeg",
+    "images/OH-MIR10SZ__teljes/_page_97_Picture_2.jpeg",
+    "images/OH-MIR10SZ__teljes/_page_97_Picture_14.jpeg",
+    "images/OH-MIR10SZ__teljes/_page_96_Picture_5.jpeg",
+    "images/OH-MIR10SZ__teljes/_page_96_Picture_4.jpeg",
+    "images/OH-MIR10SZ__teljes/_page_95_Picture_10.jpeg",
+    "images/OH-MIR10SZ__teljes",
+    "OH-MIR10SZ__teljes.md",
+    "OH-MIR10SZ__teljes/OH-MIR10SZ__teljes_meta.json",
+    "OH-MIR10SZ__teljes/OH-MIR10SZ__teljes.md",
+    "OH-MIR10SZ__teljes",
+    "images/OH-MIR09TA__teljes",
+    "OH-MIR09TA__teljes.md",
+    "OH-MIR09TA__teljes/OH-MIR09TA__teljes_meta.json",
+    "OH-MIR09TA__teljes/OH-MIR09TA__teljes.md",
+    "OH-MIR09TA__teljes",
+    "images/OH-MIR09SZ__teljes",
+    "OH-MIR09SZ__teljes.md",
+    "OH-MIR09SZ__teljes/OH-MIR09SZ__teljes_meta.json",
+    "OH-MIR09SZ__teljes/OH-MIR09SZ__teljes.md",
+    "OH-MIR09SZ__teljes",
+    "images",
+    "Untitled.md"
+  ]
+}
